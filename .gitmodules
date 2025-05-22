@@ -1,0 +1,12 @@
+[submodule "line-tracer"]
+	path = line-tracer
+	url = https://github.com/SorataBaka/line-tracer.git
+[submodule "motion-capture"]
+	path = motion-capture
+	url = https://github.com/SorataBaka/motion-capture.git
+[submodule "falling-game-of-life"]
+	path = falling-game-of-life
+	url = https://github.com/SorataBaka/falling-game-of-life.git
+[submodule "nlp-assignment"]
+	path = nlp-assignment
+	url = https://github.com/SorataBaka/NLP-assignment.git

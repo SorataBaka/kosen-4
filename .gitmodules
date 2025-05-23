@@ -10,3 +10,6 @@
 [submodule "nlp-assignment"]
 	path = nlp-assignment
 	url = https://github.com/SorataBaka/NLP-assignment.git
+[submodule "java-report"]
+	path = java-report
+	url = https://github.com/SorataBaka/java-report.git

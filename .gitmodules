@@ -13,3 +13,9 @@
 [submodule "java-report"]
 	path = java-report
 	url = https://github.com/SorataBaka/java-report.git
+[submodule "iot-lab"]
+	path = iot-lab
+	url = https://github.com/SorataBaka/IOT-lab.git
+[submodule "fusion-lab"]
+	path = fusion-lab
+	url = https://github.com/SorataBaka/fusion-lab.git
